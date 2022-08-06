@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ankitsinghh12/ankitsinghh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Student at IBS, Hyderabad
 - 📫 How to reach me: @ani.lovesshawarma@gmail.com
 
--->
+
