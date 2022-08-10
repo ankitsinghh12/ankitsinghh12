@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://www.instagram.com/aniisupp/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniisupp" height="30" width="40" /></a> </p>
 
-- 🔭 I’m currently working on **Flask, Machiene learning and Deep learning**
-
 <img align="right" alt="Coding" width="200" src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t39.30808-6/298529505_106456435506916_2686705956151011339_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=35BT2AWcbiAAX_lbi5v&_nc_ht=scontent.fhyd2-1.fna&oh=00_AT_OVL7vU_p5IXvHDW3hxwnK-WjVKYxSv3jXlDea6-9oQg&oe=62F9D266">
+
+- 🔭 I’m currently working on **Flask, Machiene learning and Deep learning**
 
 - 🌱 I’m currently learning **Data Science and back-end**
 
