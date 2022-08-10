@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aniisuppp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniisupp" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/ankit kumar singh](https://www.linkedin.com/in/ankit-kumar-singh-3795451b5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit kumar singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-kumar-singh-3795451b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aniisupp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniisupp" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ankitsingh49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ankitsingh49" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ankitkumar52002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankitkumar52002" height="30" width="40" /></a>
