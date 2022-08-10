@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Soccer Analytics research paper**
 
-<img align="right" alt="Coding" width="300" src="[https://totalfootballanalysis.com/wp-content/uploads/2021/09/attacking-triangles-1-1200x540.png](https://scontent.fhyd2-1.fna.fbcdn.net/v/t39.30808-6/298529505_106456435506916_2686705956151011339_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=35BT2AWcbiAAX_lbi5v&_nc_ht=scontent.fhyd2-1.fna&oh=00_AT_OVL7vU_p5IXvHDW3hxwnK-WjVKYxSv3jXlDea6-9oQg&oe=62F9D266)">
+<img align="right" alt="Coding" width="300" src="https://scontent.fhyd2-1.fna.fbcdn.net/v/t39.30808-6/298529505_106456435506916_2686705956151011339_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=35BT2AWcbiAAX_lbi5v&_nc_ht=scontent.fhyd2-1.fna&oh=00_AT_OVL7vU_p5IXvHDW3hxwnK-WjVKYxSv3jXlDea6-9oQg&oe=62F9D266">
 
 - 🤝 I’m looking for help with **back-end**
 
