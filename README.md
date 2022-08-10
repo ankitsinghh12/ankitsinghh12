@@ -1,6 +1,6 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/1800/17c55b435fb932735b577ee520c9ff118996a1cf.png?1531880313">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghh12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghh12" /> </p>
 
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsinghh12&show_icons=true&locale=en" alt="ankitsinghh12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghh12&" alt="ankitsinghh12" /></p>
+
