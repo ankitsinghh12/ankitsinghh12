@@ -14,6 +14,8 @@
 
 - 👯 I’m looking to collaborate on **Soccer Analytics research paper**
 
+<img align="right" alt="Coding" width="400" src="https://totalfootballanalysis.com/wp-content/uploads/2021/09/attacking-triangles-1-1200x540.png">
+
 - 🤝 I’m looking for help with **back-end**
 
 - 💬 Ask me about **Student at IBS, Hyderabad**
