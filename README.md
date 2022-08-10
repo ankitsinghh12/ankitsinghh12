@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="center" alt="Coding" width="800" src="https://e00-marca.uecdn.es/imagenes/2015/05/07/en/football/barcelona/1430996487_extras_noticia_foton_7_0.jpg">
+<img align="center" alt="Coding" width="800" src="https://media.twenty3.sport/wp-content/uploads/2021/01/06155217/Data-I.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghh12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghh12" /> </p>
 
