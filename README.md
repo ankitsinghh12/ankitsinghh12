@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsinghh12" alt="ankitsinghh12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aniisuppp" target="blank"><img src="https://img.shields.io/twitter/follow/aniisuppp?logo=twitter&style=for-the-badge" alt="aniisuppp" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/aniisupp/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniisupp" /></a> </p>
 
 - 🔭 I’m currently working on **Flask, Machiene learning and Deep learning**
 
