@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="center" alt="Coding" width="1100" src="https://scontent.fhyd2-2.fna.fbcdn.net/v/t39.30808-6/298316516_106449672174259_8451349358595685682_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=pwGCgGvwRowAX_QrP9H&tn=3N4FuHm3acIDoMo8&_nc_ht=scontent.fhyd2-2.fna&oh=00_AT-Wtax8KSAUNfjyzA_PAJqryGeHo5bnH5Th3RPf4-mRyA&oe=62F8C5FE">
+<img align="center" alt="Coding" width="1200" src="https://scontent.fhyd2-2.fna.fbcdn.net/v/t39.30808-6/298316516_106449672174259_8451349358595685682_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=730e14&_nc_ohc=pwGCgGvwRowAX_QrP9H&tn=3N4FuHm3acIDoMo8&_nc_ht=scontent.fhyd2-2.fna&oh=00_AT-Wtax8KSAUNfjyzA_PAJqryGeHo5bnH5Th3RPf4-mRyA&oe=62F8C5FE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghh12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghh12" /> </p>
 
