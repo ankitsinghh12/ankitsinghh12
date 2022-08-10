@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://d25hn4jiqx5f7l.cloudfront.net/file_attachments/files/1800/17c55b435fb932735b577ee520c9ff118996a1cf.png?1531880313">
+<img align="center" alt="Coding" width="400" src="https://www.cityam.com/wp-content/uploads/2021/01/Visualization-in-seconds-2-e1610472545298.png?resize=742,423">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghh12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghh12" /> </p>
 
