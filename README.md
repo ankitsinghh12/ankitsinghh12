@@ -39,7 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghh12&theme=chartreuse-dark&border_radius=30.0" alt="ankitsinghh12" /></p>
 
-## 📈 GitHub Stats & Graphhhhhhhh
+## 📈 GitHub Stats & Graph
 
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitsinghh12&show_icons=true&locale=en" alt="ankitsinghh12" />
