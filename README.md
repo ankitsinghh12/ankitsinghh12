@@ -44,12 +44,5 @@
 
 
 
-## 📈 GitHub Stats & Graph
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitsinghh12&show_icons=true&locale=en" alt="ankitsinghh12" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghh12&" alt="ankitsinghh12" />
-</p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsinghh12&show_icons=true&locale=en&layout=compact" alt="ankitsinghh12" /></p>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=ankitsinghh12&theme=xcode"></p>
 
 
