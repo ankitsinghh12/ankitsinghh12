@@ -12,6 +12,8 @@
 
 
 
+- 🔭 I’m currently working on **Flask, Machiene learning and Deep learning**
+
 - 🌱 I’m currently learning **Data Science and back-end**
 
 - 👯 I’m looking to collaborate on **Soccer Analytics research paper**
