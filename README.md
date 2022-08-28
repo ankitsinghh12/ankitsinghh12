@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Final-Kompany-graphic-1600x800.jpg)" align="left" style="width: 50%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://o7dkx1gd2bwwexip1qwjpplu-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Final-Kompany-graphic-1600x800.jpg)" align="left"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsinghh12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsinghh12" /> </p>
 
