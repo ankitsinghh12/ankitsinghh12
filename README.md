@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Flask, Machiene learning and Deep learning**
+- 🔭 I’m currently working on **Flask, Machine learning and Deep learning**
 
 - 🌱 I’m currently learning **Data Science and back-end**
 
