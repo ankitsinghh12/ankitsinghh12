@@ -40,10 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsinghh12&theme=chartreuse-dark&border_radius=30.0" alt="ankitsinghh12" /></p>
 
 
-## 📈 GitHub Stats & Graph
-<p align="center">
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=ankitsinghh12&theme=xcode"></p>
 
 
 
