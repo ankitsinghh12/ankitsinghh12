@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar Singh</h1>
+<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 
